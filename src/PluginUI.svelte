@@ -17,27 +17,58 @@
 	//define all of the status that you want here
 	let statuses = [
 		{
-			'title': 'In progress',
+			'title': '👀Discovery',
 			'icon': iconInProgress,
 			'color': '#E93940'
 		},
 		{
-			'title': 'Review',
+			'title': '✍️Content required',
+			'icon': iconInProgress,
+			'color': '#E93940'
+		},
+		{
+			'title': '✍️Content in progress',
+			'icon': iconInProgress,
+			'color': '#E93940'
+		},
+		{
+			'title': '✍️Content in review',
+			'icon': iconInProgress,
+			'color': '#E93940'
+		},
+		
+		{
+			'title': '✍️Content approved',
+			'icon': iconInProgress,
+			'color': '#E93940'
+		},
+		{
+			'title': '🎨Design required',
+			'icon': iconInProgress,
+			'color': '#E93940'
+		},
+		{
+			'title': '🎨Design in progress',
+			'icon': iconInProgress,
+			'color': '#E93940'
+		},
+		{
+			'title': '🎨Design in review',
 			'icon': iconReview,
 			'color': '#FFCF23'
 		},
 		{
-			'title': 'Approved',
+			'title': '🎨Design approved',
 			'icon': iconApproved,
 			'color': '#376FFF'
 		},
 		{
-			'title': 'Develop',
+			'title': '⚙️In develop',
 			'icon': iconDevelop,
 			'color': '#3CCC65'
 		},
 		{
-			'title': 'Complete',
+			'title': '✅Complete',
 			'icon': iconComplete,
 			'color': '#000000'
 		},
